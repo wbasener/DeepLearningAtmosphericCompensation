@@ -5,6 +5,8 @@ We treat the atmospheric affects like 'noise' in a common denoising autoencoder,
 
 ![image](https://user-images.githubusercontent.com/51686251/180453646-198c14dc-73a7-400e-9ddd-8281ea568735.png | width=100px)
 
+<img src="https://user-images.githubusercontent.com/51686251/180453646-198c14dc-73a7-400e-9ddd-8281ea568735.png" width="100px">
+
 ![image](https://user-images.githubusercontent.com/51686251/180453866-7a164f7f-6440-4028-b79b-c10ee607479d.png)
 
 ![image](https://user-images.githubusercontent.com/51686251/180454007-815c3277-0924-4123-bc2f-9fd23c244ab1.png)
