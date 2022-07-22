@@ -2,7 +2,7 @@
 
 
 <div>
-<img align="right" width="250px" src="https://user-images.githubusercontent.com/51686251/180453646-198c14dc-73a7-400e-9ddd-8281ea568735.png">
+<img align="right" width="3000px" src="https://user-images.githubusercontent.com/51686251/180453646-198c14dc-73a7-400e-9ddd-8281ea568735.png">
 
 Our paper based on this code is archived at: https://arxiv.org/abs/2207.10650
   
