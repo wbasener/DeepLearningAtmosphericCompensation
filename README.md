@@ -1,4 +1,4 @@
-# DeepLearningAtmosphericCompensation
+# DeepLearningAtmosphericCompensation [![DOI](https://zenodo.org/badge/516765801.svg)](https://zenodo.org/badge/latestdoi/516765801)
 
 
 <div>
