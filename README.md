@@ -3,7 +3,7 @@ This is an autoencoder that learns the radiative atmosphere transfer to convert 
 
 We treat the atmospheric affects like 'noise' in a common denoising autoencoder, and learn this noise through trainning.  It does not as implemented work sufficiently yet for atmostpheric compensation of hyperspectral images, but we expect that the idea is sound and potentially extraorinarily valuable is successful, and as with most deep learning models there is likely improvements to the architecture that can cause leaps forward in accuracy.  
 
-![image](https://user-images.githubusercontent.com/51686251/180453646-198c14dc-73a7-400e-9ddd-8281ea568735.png)
+![image](https://user-images.githubusercontent.com/51686251/180453646-198c14dc-73a7-400e-9ddd-8281ea568735.png=250x250)
 
 ![image](https://user-images.githubusercontent.com/51686251/180453866-7a164f7f-6440-4028-b79b-c10ee607479d.png)
 
